@@ -1,5 +1,5 @@
 # assessments
-This repository will contain all assessments I would have to do as part of an interview process or something of the sort. So far I have had to do one assessment involving the analysis of households to find correlation between some features such an income, education and access to water or electricity. The dataset contained household ids, number of members in the household, income, education level, water access and electricity access.
+This repository will contain all assessments I would have to do as part of an interview process or something of the sort. So far I have had to do one assessment (Assessment_pd) involving the analysis of households to find correlation between some features such an income, education and access to water or electricity. The dataset contained household ids, number of members in the household, income, education level, water access and electricity access.
 These are some of the key insights:
 
 Correlation Analysis Interpretation:
