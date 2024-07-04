@@ -1,7 +1,15 @@
 # assessments
-This repository will contain all assessments I would have to do as part of an interview process or something of the sort. So far I have had to do one assessment (Assessment_pd) involving the analysis of households to find correlation between some features such an income, education and access to water or electricity. The dataset contained household ids, number of members in the household, income, education level, water access and electricity access.
-These are some of the key insights:
+This repository will contain all assessments I would have to do as part of an interview process or something of the sort. So far I have had to do one assessment (Assessment_pd) involving the analysis of households to find correlation between some features such an income, education and access to water or electricity.The dataset contained information about households in a rural community. It included details such as household ID, number of family members, income(Ghc), education level of the head of the household, and access to basic amenities like electricity and clean water.The task was to clean the dataset, perform exploratory data analysis, and derive meaningful insights that can inform community development initiatives.
 
+Part A: Data Cleaning
+1. Cleaning the dataset by handling missing values, removing duplicates, standardizing formats, and ensuring data consistency.
+
+Part B: Data Analysis
+1. Conducting exploratory data analysis on the cleaned dataset to uncover patterns, trends, and relationships.
+2. Applying relevant statistical techniques (e.g., correlation analysis, hypothesis testing) to gain insights into the socio-economic conditions of the households.
+3. Identifying any significant factors that contribute to the households' access to basic amenities.
+
+These are some of the key insights:
 Correlation Analysis Interpretation:
 Income and Number of Family Members: The correlation coefficient is highly positive. It indicates that higher family size is associated with higher income.
 Income and Education Level: Positive correlation suggests that higher education levels are associated with higher income.
